@@ -16,7 +16,7 @@
 
 ## Overview
 
-The **Log Analysis Script** is a Python-based tool designed to analyze web server logs for key insights. It helps in:
+The  **Log Analysis Script** is a Python-based tool designed to analyze web server logs for key insights. It helps in:
 - Counting the number of requests per IP address.
 - Identifying the most frequently accessed endpoints.
 - Detecting suspicious activities like brute force login attempts.
